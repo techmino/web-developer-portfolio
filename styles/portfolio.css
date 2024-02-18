@@ -178,3 +178,11 @@ nav>ul>li>a {
     text-align: center;
     margin-top: 30px;
 }
+
+/* footer style */
+
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
